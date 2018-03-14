@@ -22,3 +22,17 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+### Personal File ###
+*.class
+target/*
+.classpath
+.project
+.settings/
+.DS_Store
+.idea/*
+*.iml
+*.log.*
+/target/
+/log/*
+/logs/*
