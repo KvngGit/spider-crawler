@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1545b4b5-6494-4f08-855f-08c1c3ec3c71" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/_state/global-4.st" afterPath="" />
-    </list>
+    <list default="true" id="1545b4b5-6494-4f08-855f-08c1c3ec3c71" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -665,12 +663,12 @@
       <option name="presentableId" value="Default" />
       <updated>1520921311840</updated>
       <workItem from="1520921315948" duration="14785000" />
-      <workItem from="1521021107325" duration="217000" />
+      <workItem from="1521021107325" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15002000" />
+    <option name="totallyTimeSpent" value="15021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
