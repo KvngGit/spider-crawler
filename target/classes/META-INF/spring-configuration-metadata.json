@@ -1,0 +1,93 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "name": "druid",
+      "type": "org.coin.crawler.config.properties.DruidProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "name": "druid.connection-properties",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "name": "druid.filters",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.initial-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.max-pool-prepared-statement-per-connection-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.min-evictable-idle-time-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.min-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": false,
+      "name": "druid.pool-prepared-statements",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": false,
+      "name": "druid.test-on-borrow",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": false,
+      "name": "druid.test-on-return",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": false,
+      "name": "druid.test-while-idle",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "defaultValue": 0,
+      "name": "druid.time-between-eviction-runs-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.coin.crawler.config.properties.DruidProperties",
+      "name": "druid.validation-query",
+      "type": "java.lang.String"
+    }
+  ]
+}
