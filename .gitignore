@@ -1,4 +1,3 @@
-### Personal File ###
 *.class
 target/*
 .classpath
