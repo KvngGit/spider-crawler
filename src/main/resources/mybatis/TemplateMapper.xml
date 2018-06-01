@@ -14,6 +14,6 @@
         select
         <include refid="Base_Column_List"/>
         from shop_base
-        where city_code = '330100'
+        where city_code = '120100'
     </select>
 </mapper>
